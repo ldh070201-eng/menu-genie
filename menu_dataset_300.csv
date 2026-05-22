@@ -1,0 +1,301 @@
+﻿id,name,emoji,type,ingredients,tags,reason
+1,김치찌개,🍲,한식,pork,pork|meat|korean|hot|soup|stew|spicy|rice|hearty|solo|delivery,얼큰한 국물과 밥으로 든든하게 먹기 좋은 메뉴예요.
+2,된장찌개,🍲,한식,tofu,tofu|plant|korean|hot|soup|stew|mild|rice|solo,구수하고 담백한 국물이 편안한 한 끼를 만들어줘요.
+3,순두부찌개,🥘,한식,tofu|seafood,tofu|plant|seafood|korean|hot|soup|stew|spicy|rice|solo,뜨끈하고 얼큰하지만 비교적 부담이 적은 선택이에요.
+4,부대찌개,🍲,한식,pork,pork|meat|korean|hot|soup|stew|spicy|rich|hearty|delivery|drink,강한 맛과 풍성한 건더기를 함께 즐길 수 있어요.
+5,육개장,🍲,한식,beef,beef|meat|korean|hot|soup|spicy|rice|hearty,진하고 얼큰한 국물이 필요한 날 만족감이 높아요.
+6,설렁탕,🍲,한식,beef,beef|meat|korean|hot|soup|mild|rice|hearty,담백한 국물과 밥으로 속을 편하게 채울 수 있어요.
+7,갈비탕,🍲,한식,beef,beef|meat|korean|hot|soup|mild|rice|hearty|special,고기와 국물을 함께 즐길 수 있어 든든한 외식 메뉴로 좋아요.
+8,돼지국밥,🍲,한식,pork,pork|meat|korean|hot|soup|rice|hearty|solo|delivery|mild,"따뜻한 국물과 밥, 고기로 든든하게 먹기 좋아요."
+9,순대국밥,🍲,한식,pork,pork|meat|korean|hot|soup|rice|hearty|solo|savory,진한 국물과 건더기로 포만감이 큰 국밥 메뉴예요.
+10,콩나물국밥,🍲,한식,,plant|vegetable|korean|hot|soup|rice|light|quick|mild,시원하고 부담 없는 국물이 필요할 때 좋아요.
+11,감자탕,🍲,한식,pork,pork|meat|korean|hot|soup|stew|spicy|hearty|drink,푸짐한 고기와 진한 국물로 배부르게 먹기 좋아요.
+12,닭볶음탕,🥘,한식,chicken,chicken|meat|korean|hot|stew|spicy|rice|hearty,매콤한 국물과 닭고기로 밥과 잘 맞는 메뉴예요.
+13,찜닭,🍗,한식,chicken,chicken|meat|korean|hot|stew|savory|sweet|hearty|delivery,짭짤달큰한 양념과 닭고기로 푸짐하게 먹을 수 있어요.
+14,제육볶음,🥘,한식,pork,pork|meat|korean|hot|grilled|spicy|rice|hearty|delivery,매콤한 돼지고기와 밥을 든든하게 즐길 수 있어요.
+15,비빔밥,🥗,한식,,plant|vegetable|korean|rice|fresh|light|solo|quick|savory,채소와 밥을 함께 먹으며 깔끔하게 채울 수 있어요.
+16,돌솥비빔밥,🍚,한식,,plant|vegetable|korean|hot|rice|savory|hearty,뜨거운 돌솥의 고소한 밥 식감이 매력적인 메뉴예요.
+17,김치볶음밥,🍚,한식,pork,pork|meat|korean|hot|rice|spicy|quick|solo|savory,매콤하고 익숙한 볶음밥으로 빠르게 만족감을 줘요.
+18,불고기덮밥,🍚,한식,beef,beef|meat|korean|hot|rice|savory|sweet|hearty|quick,달큰한 불고기와 밥이 잘 어울리는 안정적인 선택이에요.
+19,참치마요덮밥,🍚,한식,seafood,seafood|korean|rice|creamy|quick|solo,부드럽고 고소한 맛으로 간단히 먹기 좋아요.
+20,칼국수,🍜,한식,,plant|vegetable|korean|hot|soup|noodle|mild|solo,부드러운 면과 따뜻한 국물이 편안한 한 끼를 만들어요.
+21,비빔국수,🍜,한식,,plant|vegetable|korean|cold|noodle|spicy|tangy|quick|light,새콤매콤하고 가볍게 입맛을 깨우기 좋아요.
+22,냉면,🧊,한식,beef,beef|meat|korean|cold|noodle|fresh|tangy|light,시원하고 깔끔한 면 요리가 당기는 날 잘 맞아요.
+23,막국수,🍜,한식,,plant|vegetable|korean|cold|noodle|tangy|light|fresh,시원하고 부담 적은 면 요리로 산뜻하게 먹기 좋아요.
+24,삼겹살,🥓,한식,pork,pork|meat|korean|hot|grilled|rich|hearty|dining|drink,구운 고기와 함께 제대로 된 만족감을 얻기 좋아요.
+25,소갈비,🥩,한식,beef,beef|meat|korean|hot|grilled|savory|rich|special,특별한 외식 느낌을 주는 고기 메뉴예요.
+26,보쌈,🥬,한식,pork,pork|meat|korean|mild|hearty|delivery|dining|drink,고기와 채소를 함께 즐기며 여럿이 먹기 좋아요.
+27,족발,🍖,한식,pork,pork|meat|korean|rich|hearty|delivery|drink|lateNight,쫀득한 고기와 푸짐한 배달 메뉴를 원할 때 좋아요.
+28,닭갈비,🍗,한식,chicken,chicken|meat|korean|hot|grilled|spicy|hearty|dining,매콤한 볶음 고기와 함께 활기찬 식사가 돼요.
+29,오징어볶음,🦑,한식,seafood,seafood|korean|hot|grilled|spicy|rice|quick,매콤한 해산물 볶음과 밥의 조합이 좋아요.
+30,낙지볶음,🐙,한식,seafood,seafood|korean|hot|grilled|spicy|rice|hearty,강한 매운맛과 쫄깃한 식감으로 기분 전환하기 좋아요.
+31,고등어구이,🐟,한식,seafood,seafood|korean|hot|grilled|rice|savory|solo,고소한 생선구이와 밥의 조합이 안정적이에요.
+32,갈치조림,🐟,한식,seafood,seafood|korean|hot|stew|spicy|rice|savory,매콤한 양념과 생선살이 밥과 잘 어울려요.
+33,파전,🥞,한식,seafood,seafood|korean|fried|crispy|savory|drink,바삭하고 고소한 전으로 한잔과도 잘 어울려요.
+34,김밥,🍙,분식,,plant|vegetable|korean|rice|quick|light|solo|mild,빠르고 간편하면서도 재료가 다양해 부담이 적어요.
+35,떡볶이,🌶️,분식,,plant|vegetable|korean|hot|spicy|rich|quick|delivery,자극적이고 친숙한 맛으로 기분 전환하기 좋아요.
+36,라볶이,🍜,분식,,plant|vegetable|korean|hot|noodle|spicy|rich|quick,떡볶이와 라면을 함께 즐기는 분식 조합이에요.
+37,라면,🍜,분식,,plant|vegetable|korean|hot|soup|noodle|spicy|quick|lateNight,간단하고 익숙한 얼큰함이 필요할 때 좋아요.
+38,순대,🍖,분식,pork,pork|meat|korean|savory|quick|streetfood,분식이나 간단한 안주로 잘 어울리는 메뉴예요.
+39,만두국,🥟,한식,pork,pork|meat|korean|hot|soup|mild|hearty,만두와 국물을 함께 즐기는 따뜻한 메뉴예요.
+40,짬뽕,🍜,중식,seafood,seafood|chinese|hot|soup|noodle|spicy|hearty|delivery,얼큰한 국물과 면을 동시에 원할 때 가장 직접적인 선택이에요.
+41,짜장면,🍜,중식,pork,pork|meat|chinese|noodle|savory|rich|quick|delivery,짭짤하고 진한 면 요리를 편하게 즐길 수 있어요.
+42,탕수육,🍖,중식,pork,pork|meat|chinese|fried|crispy|tangy|delivery|drink,바삭한 고기와 새콤달콤한 맛이 특별한 기분을 줘요.
+43,마라탕,🥘,중식,,plant|vegetable|chinese|hot|soup|spicy|rich|delivery,매운 강도와 재료를 조절하며 자극적인 만족감을 얻을 수 있어요.
+44,마라샹궈,🔥,중식,,plant|vegetable|chinese|hot|spicy|rich|grilled|delivery|drink,국물 없이도 강렬하고 풍성한 맛을 즐길 수 있어요.
+45,볶음밥,🍚,중식,egg,egg|chinese|hot|rice|savory|quick|solo,빠르게 먹기 좋고 고슬한 밥의 만족감이 있어요.
+46,마파두부밥,🍚,중식,pork|tofu,pork|meat|tofu|plant|chinese|hot|rice|spicy|savory|quick,매콤한 두부 소스와 밥을 함께 먹기 좋아요.
+47,탄탄면,🍜,중식,pork,pork|meat|chinese|hot|soup|noodle|spicy|rich,고소하고 매콤한 국물 면을 원할 때 좋아요.
+48,우육면,🍜,중식,beef,beef|meat|chinese|hot|soup|noodle|rich|hearty,진한 고기 국물과 면으로 든든하게 먹을 수 있어요.
+49,깐풍기,🍗,중식,chicken,chicken|meat|chinese|fried|crispy|spicy|savory|drink,매콤짭짤한 튀김 닭고기가 당길 때 좋아요.
+50,유린기,🍗,중식,chicken,chicken|meat|chinese|fried|crispy|tangy|fresh|drink,바삭한 닭고기에 새콤한 소스가 더해져 산뜻해요.
+51,크림새우,🍤,중식,seafood|dairy,seafood|dairy|cheesy|chinese|fried|crispy|creamy|rich|special,바삭한 새우와 크리미한 소스를 함께 즐겨요.
+52,딤섬,🥟,중식,pork,pork|meat|chinese|mild|special|dining,다양한 한입 메뉴를 조금씩 즐기기 좋아요.
+53,라멘,🍜,일식,pork,pork|meat|japanese|hot|soup|noodle|rich|hearty,진한 국물과 면으로 묵직한 만족감을 얻기 좋아요.
+54,우동,🍜,일식,,plant|vegetable|japanese|hot|soup|noodle|mild|light,담백한 국물과 면으로 편안하게 먹을 수 있어요.
+55,냉모밀,🍜,일식,,plant|vegetable|japanese|cold|noodle|mild|light|fresh,차갑고 담백한 면 요리를 원하는 날 잘 맞아요.
+56,돈까스,🍛,일식,pork,pork|meat|japanese|fried|crispy|hearty|savory,바삭한 식감과 든든한 포만감을 함께 얻을 수 있어요.
+57,치즈돈까스,🍛,일식,pork|dairy,pork|meat|dairy|cheesy|japanese|fried|crispy|creamy|rich|hearty,바삭함과 치즈의 고소함을 함께 즐길 수 있어요.
+58,카츠동,🍚,일식,pork|egg,pork|meat|egg|japanese|hot|rice|fried|savory|hearty,"돈까스와 계란, 밥이 어우러진 든든한 메뉴예요."
+59,규동,🍚,일식,beef,beef|meat|japanese|hot|rice|savory|quick,부드러운 고기와 밥을 간편하고 든든하게 즐겨요.
+60,오야코동,🍚,일식,chicken|egg,chicken|meat|egg|japanese|hot|rice|mild|savory,닭고기와 계란이 부드럽게 어우러진 덮밥이에요.
+61,텐동,🍤,일식,seafood,seafood|japanese|hot|rice|fried|crispy|hearty,바삭한 튀김과 밥의 조합이 좋은 메뉴예요.
+62,초밥,🍣,일식,seafood,seafood|japanese|rice|fresh|light|special,깔끔하고 특별한 한 끼가 필요할 때 어울려요.
+63,연어덮밥,🍣,일식,seafood,seafood|fresh|japanese|rice|light|special,신선한 재료와 밥을 산뜻하게 먹고 싶을 때 좋아요.
+64,카레라이스,🍛,일식,beef,beef|meat|japanese|hot|rice|rich|mild|hearty,진한 카레와 밥으로 안정적인 포만감을 줘요.
+65,오코노미야키,🥞,일식,pork|egg,pork|meat|egg|japanese|hot|grilled|savory|rich,철판에 구운 진한 풍미의 일본식 부침 메뉴예요.
+66,타코야키,🐙,일식,seafood,seafood|japanese|hot|fried|savory|quick,한입 크기의 따뜻하고 짭짤한 간식형 메뉴예요.
+67,야키소바,🍜,일식,pork,pork|meat|japanese|hot|noodle|grilled|savory|quick,달큰짭짤한 볶음 면으로 간편하게 먹기 좋아요.
+68,크림 파스타,🍝,양식,dairy,dairy|cheesy|western|hot|noodle|creamy|rich|hearty,고소하고 꾸덕한 맛으로 기분을 풍성하게 만들어줘요.
+69,토마토 파스타,🍝,양식,,plant|vegetable|western|hot|noodle|tangy|savory,산미와 감칠맛이 어우러진 면 요리를 즐길 수 있어요.
+70,알리오 올리오,🍝,양식,,plant|vegetable|western|hot|noodle|savory|light,향긋하면서도 비교적 가볍게 파스타를 즐길 수 있어요.
+71,봉골레 파스타,🍝,양식,seafood,seafood|western|hot|noodle|savory|light|fresh,조개 감칠맛이 살아 있는 깔끔한 파스타예요.
+72,볼로네제,🍝,양식,beef,beef|meat|western|hot|noodle|rich|savory|hearty,고기 소스가 진하게 들어간 든든한 파스타예요.
+73,로제 파스타,🍝,양식,dairy,dairy|cheesy|western|hot|noodle|creamy|tangy|rich,크림과 토마토의 균형 잡힌 맛을 즐길 수 있어요.
+74,스테이크,🥩,양식,beef,beef|meat|western|hot|grilled|rich|hearty|special,고기 중심의 특별하고 만족도 높은 식사를 원할 때 좋아요.
+75,함박스테이크,🥩,양식,beef|egg,beef|meat|egg|western|hot|grilled|savory|hearty,부드러운 고기와 소스로 든든하게 먹기 좋아요.
+76,리조또,🍚,양식,dairy,dairy|cheesy|western|hot|rice|creamy|rich,부드럽고 고소한 쌀 요리를 원할 때 좋아요.
+77,피자,🍕,양식,dairy,dairy|cheesy|western|rich|hearty|delivery|drink,풍부한 맛을 함께 나눠 먹거나 배달하기 좋아요.
+78,햄버거,🍔,양식,beef,beef|meat|western|rich|hearty|quick|delivery,빠르고 든든하며 강한 풍미를 즐길 수 있어요.
+79,치킨버거,🍔,양식,chicken,chicken|meat|western|fried|crispy|quick|delivery,바삭한 닭고기 패티가 들어간 버거예요.
+80,샌드위치,🥪,브런치,,plant|vegetable|western|light|fresh|quick|solo|mild,빠르게 먹으면서도 부담 없는 구성이 필요할 때 좋아요.
+81,오믈렛,🍳,브런치,egg,egg|western|hot|mild|light|brunch,부드러운 계란 요리로 가볍게 먹기 좋아요.
+82,팬케이크,🥞,브런치,egg,egg|western|sweet|brunch|light,달콤한 식사나 브런치를 원할 때 좋아요.
+83,치킨샐러드,🥗,샐러드,chicken,chicken|meat|vegetable|fresh|light|mild|quick,단백질과 채소를 가볍고 산뜻하게 챙길 수 있어요.
+84,연어샐러드,🥗,샐러드,seafood,seafood|fresh|vegetable|light|cold|special,신선한 연어와 채소를 가볍게 즐겨요.
+85,포케,🥗,하와이안,seafood,seafood|rice|vegetable|fresh|light|cold|quick,신선한 재료와 밥을 산뜻하게 먹고 싶을 때 좋아요.
+86,쌀국수,🍜,동남아,beef,beef|meat|asian|hot|soup|noodle|mild|light|fresh,따뜻하지만 부담이 덜하고 깔끔한 국물을 즐길 수 있어요.
+87,팟타이,🍜,동남아,seafood,seafood|asian|noodle|tangy|savory|special,새콤달콤한 풍미의 면 요리로 색다르게 먹기 좋아요.
+88,나시고랭,🍚,동남아,chicken|egg,chicken|meat|egg|asian|hot|rice|spicy|savory|hearty,매콤하고 이국적인 볶음밥이 당길 때 좋아요.
+89,분짜,🍜,동남아,pork,pork|meat|asian|cold|noodle|fresh|tangy|special,"새콤한 소스와 고기, 면을 함께 즐기는 베트남식 메뉴예요."
+90,반미,🥖,동남아,pork,pork|meat|asian|fresh|quick|savory|special,"바게트와 고기, 채소를 함께 먹는 산뜻한 샌드위치예요."
+91,월남쌈,🥬,동남아,,plant|vegetable|asian|fresh|light|special|mild,채소를 풍성하게 먹으며 가볍고 특별하게 즐길 수 있어요.
+92,그린커리,🍛,동남아,chicken,chicken|meat|asian|hot|rice|spicy|creamy|rich,매콤하고 부드러운 코코넛 커리를 밥과 즐겨요.
+93,똠얌꿍,🍲,동남아,seafood,seafood|asian|hot|soup|spicy|tangy|fresh,새콤매콤한 태국식 국물이 필요할 때 좋아요.
+94,치킨,🍗,배달,chicken,chicken|meat|fried|crispy|rich|hearty|delivery|drink|lateNight,바삭한 음식과 가벼운 한잔이 필요한 날 잘 맞아요.
+95,닭발,🌶️,야식,chicken,chicken|meat|korean|spicy|rich|delivery|drink|lateNight,매콤하고 강한 야식 안주가 필요할 때 좋아요.
+96,참치찌개,🍲,한식,seafood,seafood|korean|hot|soup|stew|rice,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+97,참치국밥,🍲,한식,seafood,seafood|korean|hot|soup|rice|hearty|solo,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+98,참치덮밥,🍚,한식,seafood,seafood|korean|hot|rice|quick|solo,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+99,참치볶음밥,🍚,중식,seafood,seafood|chinese|hot|rice|savory|quick,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+100,참치볶음면,🍜,아시안,seafood,seafood|asian|hot|noodle|grilled|savory|quick,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+101,참치국수,🍜,한식,seafood,seafood|korean|noodle|light|quick,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+102,참치파스타,🍝,양식,seafood,seafood|western|hot|noodle|savory,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+103,참치샐러드,🥗,샐러드,seafood,seafood|vegetable|fresh|light|quick,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+104,참치샌드위치,🥪,브런치,seafood,seafood|western|fresh|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+105,참치구이,🥩,한식,seafood,seafood|korean|hot|grilled|savory|dining,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+106,참치튀김,🍤,분식,seafood,seafood|fried|crispy|quick|savory,바삭한 식감이 필요할 때 좋은 메뉴예요.
+107,참치카레,🍛,일식,seafood,seafood|japanese|hot|rice|rich|hearty,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+108,돼지고기찌개,🍲,한식,pork,pork|meat|korean|hot|soup|stew|rice,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+109,돼지고기국밥,🍲,한식,pork,pork|meat|korean|hot|soup|rice|hearty|solo,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+110,돼지고기덮밥,🍚,한식,pork,pork|meat|korean|hot|rice|quick|solo,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+111,돼지고기볶음밥,🍚,중식,pork,pork|meat|chinese|hot|rice|savory|quick,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+112,돼지고기볶음면,🍜,아시안,pork,pork|meat|asian|hot|noodle|grilled|savory|quick,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+113,돼지고기국수,🍜,한식,pork,pork|meat|korean|noodle|light|quick,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+114,돼지고기파스타,🍝,양식,pork,pork|meat|western|hot|noodle|savory,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+115,돼지고기샐러드,🥗,샐러드,pork,pork|meat|vegetable|fresh|light|quick,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+116,돼지고기샌드위치,🥪,브런치,pork,pork|meat|western|fresh|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+117,돼지고기구이,🥩,한식,pork,pork|meat|korean|hot|grilled|savory|dining,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+118,돼지고기튀김,🍤,분식,pork,pork|meat|fried|crispy|quick|savory,바삭한 식감이 필요할 때 좋은 메뉴예요.
+119,돼지고기카레,🍛,일식,pork,pork|meat|japanese|hot|rice|rich|hearty,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+120,소고기찌개,🍲,한식,beef,beef|meat|korean|hot|soup|stew|rice,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+121,소고기국밥,🍲,한식,beef,beef|meat|korean|hot|soup|rice|hearty|solo,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+122,소고기덮밥,🍚,한식,beef,beef|meat|korean|hot|rice|quick|solo,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+123,소고기볶음밥,🍚,중식,beef,beef|meat|chinese|hot|rice|savory|quick,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+124,소고기볶음면,🍜,아시안,beef,beef|meat|asian|hot|noodle|grilled|savory|quick,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+125,소고기국수,🍜,한식,beef,beef|meat|korean|noodle|light|quick,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+126,소고기파스타,🍝,양식,beef,beef|meat|western|hot|noodle|savory,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+127,소고기샐러드,🥗,샐러드,beef,beef|meat|vegetable|fresh|light|quick,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+128,소고기샌드위치,🥪,브런치,beef,beef|meat|western|fresh|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+129,소고기구이,🥩,한식,beef,beef|meat|korean|hot|grilled|savory|dining,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+130,소고기튀김,🍤,분식,beef,beef|meat|fried|crispy|quick|savory,바삭한 식감이 필요할 때 좋은 메뉴예요.
+131,소고기카레,🍛,일식,beef,beef|meat|japanese|hot|rice|rich|hearty,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+132,닭고기찌개,🍲,한식,chicken,chicken|meat|korean|hot|soup|stew|rice,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+133,닭고기국밥,🍲,한식,chicken,chicken|meat|korean|hot|soup|rice|hearty|solo,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+134,닭고기덮밥,🍚,한식,chicken,chicken|meat|korean|hot|rice|quick|solo,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+135,닭고기볶음밥,🍚,중식,chicken,chicken|meat|chinese|hot|rice|savory|quick,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+136,닭고기볶음면,🍜,아시안,chicken,chicken|meat|asian|hot|noodle|grilled|savory|quick,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+137,닭고기국수,🍜,한식,chicken,chicken|meat|korean|noodle|light|quick,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+138,닭고기파스타,🍝,양식,chicken,chicken|meat|western|hot|noodle|savory,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+139,닭고기샐러드,🥗,샐러드,chicken,chicken|meat|vegetable|fresh|light|quick,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+140,닭고기샌드위치,🥪,브런치,chicken,chicken|meat|western|fresh|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+141,닭고기구이,🥩,한식,chicken,chicken|meat|korean|hot|grilled|savory|dining,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+142,닭고기튀김,🍤,분식,chicken,chicken|meat|fried|crispy|quick|savory,바삭한 식감이 필요할 때 좋은 메뉴예요.
+143,닭고기카레,🍛,일식,chicken,chicken|meat|japanese|hot|rice|rich|hearty,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+144,새우찌개,🍲,한식,seafood,seafood|korean|hot|soup|stew|rice|fresh,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+145,새우국밥,🍲,한식,seafood,seafood|korean|hot|soup|rice|hearty|solo|fresh,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+146,새우덮밥,🍚,한식,seafood,seafood|korean|hot|rice|quick|solo|fresh,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+147,새우볶음밥,🍚,중식,seafood,seafood|chinese|hot|rice|savory|quick|fresh,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+148,새우볶음면,🍜,아시안,seafood,seafood|asian|hot|noodle|grilled|savory|quick|fresh,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+149,새우국수,🍜,한식,seafood,seafood|korean|noodle|light|quick|fresh,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+150,새우파스타,🍝,양식,seafood,seafood|western|hot|noodle|savory|fresh,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+151,새우샐러드,🥗,샐러드,seafood,seafood|vegetable|fresh|light|quick,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+152,새우샌드위치,🥪,브런치,seafood,seafood|western|fresh|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+153,새우구이,🥩,한식,seafood,seafood|korean|hot|grilled|savory|dining|fresh,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+154,새우튀김,🍤,분식,seafood,seafood|fried|crispy|quick|savory|fresh,바삭한 식감이 필요할 때 좋은 메뉴예요.
+155,새우카레,🍛,일식,seafood,seafood|japanese|hot|rice|rich|hearty|fresh,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+156,연어찌개,🍲,한식,seafood,seafood|fresh|korean|hot|soup|stew|rice,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+157,연어국밥,🍲,한식,seafood,seafood|fresh|korean|hot|soup|rice|hearty|solo,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+158,연어볶음밥,🍚,중식,seafood,seafood|fresh|chinese|hot|rice|savory|quick,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+159,연어볶음면,🍜,아시안,seafood,seafood|fresh|asian|hot|noodle|grilled|savory|quick,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+160,연어국수,🍜,한식,seafood,seafood|fresh|korean|noodle|light|quick,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+161,연어파스타,🍝,양식,seafood,seafood|fresh|western|hot|noodle|savory,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+162,연어샌드위치,🥪,브런치,seafood,seafood|fresh|western|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+163,연어구이,🥩,한식,seafood,seafood|fresh|korean|hot|grilled|savory|dining,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+164,연어튀김,🍤,분식,seafood,seafood|fresh|fried|crispy|quick|savory,바삭한 식감이 필요할 때 좋은 메뉴예요.
+165,연어카레,🍛,일식,seafood,seafood|fresh|japanese|hot|rice|rich|hearty,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+166,해물찌개,🍲,한식,seafood,seafood|korean|hot|soup|stew|rice|fresh,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+167,해물국밥,🍲,한식,seafood,seafood|korean|hot|soup|rice|hearty|solo|fresh,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+168,해물덮밥,🍚,한식,seafood,seafood|korean|hot|rice|quick|solo|fresh,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+169,해물볶음밥,🍚,중식,seafood,seafood|chinese|hot|rice|savory|quick|fresh,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+170,해물볶음면,🍜,아시안,seafood,seafood|asian|hot|noodle|grilled|savory|quick|fresh,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+171,해물국수,🍜,한식,seafood,seafood|korean|noodle|light|quick|fresh,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+172,해물파스타,🍝,양식,seafood,seafood|western|hot|noodle|savory|fresh,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+173,해물샐러드,🥗,샐러드,seafood,seafood|vegetable|fresh|light|quick,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+174,해물샌드위치,🥪,브런치,seafood,seafood|western|fresh|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+175,해물구이,🥩,한식,seafood,seafood|korean|hot|grilled|savory|dining|fresh,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+176,해물튀김,🍤,분식,seafood,seafood|fried|crispy|quick|savory|fresh,바삭한 식감이 필요할 때 좋은 메뉴예요.
+177,해물카레,🍛,일식,seafood,seafood|japanese|hot|rice|rich|hearty|fresh,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+178,버섯찌개,🍲,한식,,plant|vegetable|korean|hot|soup|stew|rice|mild|savory,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+179,버섯국밥,🍲,한식,,plant|vegetable|korean|hot|soup|rice|hearty|solo|mild|savory,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+180,버섯덮밥,🍚,한식,,plant|vegetable|korean|hot|rice|quick|solo|mild|savory,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+181,버섯볶음밥,🍚,중식,,plant|vegetable|chinese|hot|rice|savory|quick|mild,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+182,버섯볶음면,🍜,아시안,,plant|vegetable|asian|hot|noodle|grilled|savory|quick|mild,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+183,버섯국수,🍜,한식,,plant|vegetable|korean|noodle|light|quick|mild|savory,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+184,버섯파스타,🍝,양식,,plant|vegetable|western|hot|noodle|savory|mild,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+185,버섯샐러드,🥗,샐러드,,plant|vegetable|fresh|light|quick|mild|savory,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+186,버섯샌드위치,🥪,브런치,,plant|vegetable|western|fresh|quick|light|mild|savory,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+187,버섯구이,🥩,한식,,plant|vegetable|korean|hot|grilled|savory|dining|mild,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+188,버섯튀김,🍤,분식,,plant|vegetable|fried|crispy|quick|savory|mild,바삭한 식감이 필요할 때 좋은 메뉴예요.
+189,버섯카레,🍛,일식,,plant|vegetable|japanese|hot|rice|rich|hearty|mild|savory,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+190,두부찌개,🍲,한식,tofu,tofu|plant|korean|hot|soup|stew|rice|mild|light,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+191,두부국밥,🍲,한식,tofu,tofu|plant|korean|hot|soup|rice|hearty|solo|mild|light,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+192,두부덮밥,🍚,한식,tofu,tofu|plant|korean|hot|rice|quick|solo|mild|light,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+193,두부볶음밥,🍚,중식,tofu,tofu|plant|chinese|hot|rice|savory|quick|mild|light,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+194,두부볶음면,🍜,아시안,tofu,tofu|plant|asian|hot|noodle|grilled|savory|quick|mild|light,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+195,두부국수,🍜,한식,tofu,tofu|plant|korean|noodle|light|quick|mild,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+196,두부파스타,🍝,양식,tofu,tofu|plant|western|hot|noodle|savory|mild|light,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+197,두부샐러드,🥗,샐러드,tofu,tofu|plant|vegetable|fresh|light|quick|mild,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+198,두부샌드위치,🥪,브런치,tofu,tofu|plant|western|fresh|quick|light|mild,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+199,두부구이,🥩,한식,tofu,tofu|plant|korean|hot|grilled|savory|dining|mild|light,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+200,두부튀김,🍤,분식,tofu,tofu|plant|fried|crispy|quick|savory|mild|light,바삭한 식감이 필요할 때 좋은 메뉴예요.
+201,두부카레,🍛,일식,tofu,tofu|plant|japanese|hot|rice|rich|hearty|mild|light,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+202,계란찌개,🍲,한식,egg,egg|korean|hot|soup|stew|rice,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+203,계란국밥,🍲,한식,egg,egg|korean|hot|soup|rice|hearty|solo,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+204,계란덮밥,🍚,한식,egg,egg|korean|hot|rice|quick|solo,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+205,계란볶음밥,🍚,중식,egg,egg|chinese|hot|rice|savory|quick,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+206,계란볶음면,🍜,아시안,egg,egg|asian|hot|noodle|grilled|savory|quick,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+207,계란국수,🍜,한식,egg,egg|korean|noodle|light|quick,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+208,계란파스타,🍝,양식,egg,egg|western|hot|noodle|savory,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+209,계란샐러드,🥗,샐러드,egg,egg|vegetable|fresh|light|quick,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+210,계란샌드위치,🥪,브런치,egg,egg|western|fresh|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+211,계란구이,🥩,한식,egg,egg|korean|hot|grilled|savory|dining,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+212,계란튀김,🍤,분식,egg,egg|fried|crispy|quick|savory,바삭한 식감이 필요할 때 좋은 메뉴예요.
+213,계란카레,🍛,일식,egg,egg|japanese|hot|rice|rich|hearty,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+214,치즈찌개,🍲,한식,dairy,dairy|cheesy|korean|hot|soup|stew|rice|creamy,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+215,치즈국밥,🍲,한식,dairy,dairy|cheesy|korean|hot|soup|rice|hearty|solo|creamy,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+216,치즈덮밥,🍚,한식,dairy,dairy|cheesy|korean|hot|rice|quick|solo|creamy,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+217,치즈볶음밥,🍚,중식,dairy,dairy|cheesy|chinese|hot|rice|savory|quick|creamy,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+218,치즈볶음면,🍜,아시안,dairy,dairy|cheesy|asian|hot|noodle|grilled|savory|quick|creamy,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+219,치즈국수,🍜,한식,dairy,dairy|cheesy|korean|noodle|light|quick|creamy,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+220,치즈파스타,🍝,양식,dairy,dairy|cheesy|western|hot|noodle|savory|creamy,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+221,치즈샐러드,🥗,샐러드,dairy,dairy|cheesy|vegetable|fresh|light|quick|creamy,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+222,치즈샌드위치,🥪,브런치,dairy,dairy|cheesy|western|fresh|quick|light|creamy,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+223,치즈구이,🥩,한식,dairy,dairy|cheesy|korean|hot|grilled|savory|dining|creamy,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+224,치즈튀김,🍤,분식,dairy,dairy|cheesy|fried|crispy|quick|savory|creamy,바삭한 식감이 필요할 때 좋은 메뉴예요.
+225,치즈카레,🍛,일식,dairy,dairy|cheesy|japanese|hot|rice|rich|hearty|creamy,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+226,김치국밥,🍲,한식,,plant|vegetable|korean|hot|soup|rice|hearty|solo|spicy|savory,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+227,김치덮밥,🍚,한식,,plant|vegetable|korean|hot|rice|quick|solo|spicy|savory,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+228,김치볶음면,🍜,아시안,,plant|vegetable|asian|hot|noodle|grilled|savory|quick|spicy,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+229,김치국수,🍜,한식,,plant|vegetable|korean|noodle|light|quick|spicy|savory,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+230,김치파스타,🍝,양식,,plant|vegetable|western|hot|noodle|savory|spicy,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+231,김치샐러드,🥗,샐러드,,plant|vegetable|fresh|light|quick|spicy|savory,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+232,김치샌드위치,🥪,브런치,,plant|vegetable|western|fresh|quick|light|spicy|savory,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+233,김치구이,🥩,한식,,plant|vegetable|korean|hot|grilled|savory|dining|spicy,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+234,김치튀김,🍤,분식,,plant|vegetable|fried|crispy|quick|savory|spicy,바삭한 식감이 필요할 때 좋은 메뉴예요.
+235,김치카레,🍛,일식,,plant|vegetable|japanese|hot|rice|rich|hearty|spicy|savory,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+236,가지찌개,🍲,한식,,plant|vegetable|korean|hot|soup|stew|rice,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+237,가지국밥,🍲,한식,,plant|vegetable|korean|hot|soup|rice|hearty|solo,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+238,가지덮밥,🍚,한식,,plant|vegetable|korean|hot|rice|quick|solo,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+239,가지볶음밥,🍚,중식,,plant|vegetable|chinese|hot|rice|savory|quick,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+240,가지볶음면,🍜,아시안,,plant|vegetable|asian|hot|noodle|grilled|savory|quick,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+241,가지국수,🍜,한식,,plant|vegetable|korean|noodle|light|quick,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+242,가지파스타,🍝,양식,,plant|vegetable|western|hot|noodle|savory,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+243,가지샐러드,🥗,샐러드,,plant|vegetable|fresh|light|quick,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+244,가지샌드위치,🥪,브런치,,plant|vegetable|western|fresh|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+245,가지구이,🥩,한식,,plant|vegetable|korean|hot|grilled|savory|dining,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+246,가지튀김,🍤,분식,,plant|vegetable|fried|crispy|quick|savory,바삭한 식감이 필요할 때 좋은 메뉴예요.
+247,가지카레,🍛,일식,,plant|vegetable|japanese|hot|rice|rich|hearty,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+248,아보카도찌개,🍲,한식,,plant|vegetable|korean|hot|soup|stew|rice|fresh|creamy,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+249,아보카도국밥,🍲,한식,,plant|vegetable|korean|hot|soup|rice|hearty|solo|fresh|creamy,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+250,아보카도덮밥,🍚,한식,,plant|vegetable|korean|hot|rice|quick|solo|fresh|creamy,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+251,아보카도볶음밥,🍚,중식,,plant|vegetable|chinese|hot|rice|savory|quick|fresh|creamy,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+252,아보카도볶음면,🍜,아시안,,plant|vegetable|asian|hot|noodle|grilled|savory|quick|fresh|creamy,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+253,아보카도국수,🍜,한식,,plant|vegetable|korean|noodle|light|quick|fresh|creamy,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+254,아보카도파스타,🍝,양식,,plant|vegetable|western|hot|noodle|savory|fresh|creamy,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+255,아보카도샐러드,🥗,샐러드,,plant|vegetable|fresh|light|quick|creamy,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+256,아보카도샌드위치,🥪,브런치,,plant|vegetable|western|fresh|quick|light|creamy,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+257,아보카도구이,🥩,한식,,plant|vegetable|korean|hot|grilled|savory|dining|fresh|creamy,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+258,아보카도튀김,🍤,분식,,plant|vegetable|fried|crispy|quick|savory|fresh|creamy,바삭한 식감이 필요할 때 좋은 메뉴예요.
+259,아보카도카레,🍛,일식,,plant|vegetable|japanese|hot|rice|rich|hearty|fresh|creamy,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+260,불고기찌개,🍲,한식,beef,beef|meat|korean|hot|soup|stew|rice|sweet|savory,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+261,불고기국밥,🍲,한식,beef,beef|meat|korean|hot|soup|rice|hearty|solo|sweet|savory,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+262,불고기볶음밥,🍚,중식,beef,beef|meat|chinese|hot|rice|savory|quick|sweet,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+263,불고기볶음면,🍜,아시안,beef,beef|meat|asian|hot|noodle|grilled|savory|quick|sweet,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+264,불고기국수,🍜,한식,beef,beef|meat|korean|noodle|light|quick|sweet|savory,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+265,불고기파스타,🍝,양식,beef,beef|meat|western|hot|noodle|savory|sweet,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+266,불고기샐러드,🥗,샐러드,beef,beef|meat|vegetable|fresh|light|quick|sweet|savory,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+267,불고기샌드위치,🥪,브런치,beef,beef|meat|western|fresh|quick|light|sweet|savory,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+268,불고기구이,🥩,한식,beef,beef|meat|korean|hot|grilled|savory|dining|sweet,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+269,불고기튀김,🍤,분식,beef,beef|meat|fried|crispy|quick|savory|sweet,바삭한 식감이 필요할 때 좋은 메뉴예요.
+270,불고기카레,🍛,일식,beef,beef|meat|japanese|hot|rice|rich|hearty|sweet|savory,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+271,매운돼지찌개,🍲,한식,pork,pork|meat|korean|hot|soup|stew|rice|spicy|hearty,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+272,매운돼지국밥,🍲,한식,pork,pork|meat|korean|hot|soup|rice|hearty|solo|spicy,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+273,매운돼지덮밥,🍚,한식,pork,pork|meat|korean|hot|rice|quick|solo|spicy|hearty,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+274,매운돼지볶음밥,🍚,중식,pork,pork|meat|chinese|hot|rice|savory|quick|spicy|hearty,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+275,매운돼지볶음면,🍜,아시안,pork,pork|meat|asian|hot|noodle|grilled|savory|quick|spicy|hearty,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+276,매운돼지국수,🍜,한식,pork,pork|meat|korean|noodle|light|quick|spicy|hearty,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+277,매운돼지파스타,🍝,양식,pork,pork|meat|western|hot|noodle|savory|spicy|hearty,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+278,매운돼지샐러드,🥗,샐러드,pork,pork|meat|vegetable|fresh|light|quick|spicy|hearty,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+279,매운돼지샌드위치,🥪,브런치,pork,pork|meat|western|fresh|quick|light|spicy|hearty,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+280,매운돼지구이,🥩,한식,pork,pork|meat|korean|hot|grilled|savory|dining|spicy|hearty,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+281,매운돼지튀김,🍤,분식,pork,pork|meat|fried|crispy|quick|savory|spicy|hearty,바삭한 식감이 필요할 때 좋은 메뉴예요.
+282,매운돼지카레,🍛,일식,pork,pork|meat|japanese|hot|rice|rich|hearty|spicy,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+283,차돌찌개,🍲,한식,beef,beef|meat|korean|hot|soup|stew|rice,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+284,차돌국밥,🍲,한식,beef,beef|meat|korean|hot|soup|rice|hearty|solo,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+285,차돌덮밥,🍚,한식,beef,beef|meat|korean|hot|rice|quick|solo,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+286,차돌볶음밥,🍚,중식,beef,beef|meat|chinese|hot|rice|savory|quick,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+287,차돌볶음면,🍜,아시안,beef,beef|meat|asian|hot|noodle|grilled|savory|quick,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+288,차돌국수,🍜,한식,beef,beef|meat|korean|noodle|light|quick,면 중심으로 가볍게 먹기 좋은 메뉴예요.
+289,차돌파스타,🍝,양식,beef,beef|meat|western|hot|noodle|savory,면 요리 형태로 재료의 맛을 살려 먹기 좋은 메뉴예요.
+290,차돌샐러드,🥗,샐러드,beef,beef|meat|vegetable|fresh|light|quick,신선한 재료를 중심으로 가볍게 먹기 좋아요.
+291,차돌샌드위치,🥪,브런치,beef,beef|meat|western|fresh|quick|light,빵과 재료를 간편하게 먹기 좋은 메뉴예요.
+292,차돌구이,🥩,한식,beef,beef|meat|korean|hot|grilled|savory|dining,구운 재료의 풍미를 살려 먹기 좋은 메뉴예요.
+293,차돌튀김,🍤,분식,beef,beef|meat|fried|crispy|quick|savory,바삭한 식감이 필요할 때 좋은 메뉴예요.
+294,차돌카레,🍛,일식,beef,beef|meat|japanese|hot|rice|rich|hearty,진한 카레 소스와 밥을 함께 먹는 든든한 메뉴예요.
+295,닭가슴살찌개,🍲,한식,chicken,chicken|meat|korean|hot|soup|stew|rice,뜨끈한 국물과 밥으로 든든하게 먹기 좋은 찌개 메뉴예요.
+296,닭가슴살국밥,🍲,한식,chicken,chicken|meat|korean|hot|soup|rice|hearty|solo,따뜻한 국물과 밥을 함께 먹는 든든한 한 그릇이에요.
+297,닭가슴살덮밥,🍚,한식,chicken,chicken|meat|korean|hot|rice|quick|solo,밥 위에 재료를 올려 간편하고 든든하게 먹기 좋아요.
+298,닭가슴살볶음밥,🍚,중식,chicken,chicken|meat|chinese|hot|rice|savory|quick,고슬한 밥과 재료를 볶아 빠르게 먹기 좋은 메뉴예요.
+299,닭가슴살볶음면,🍜,아시안,chicken,chicken|meat|asian|hot|noodle|grilled|savory|quick,국물 없이 볶아낸 면 요리가 당길 때 좋아요.
+300,닭가슴살국수,🍜,한식,chicken,chicken|meat|korean|noodle|light|quick,면 중심으로 가볍게 먹기 좋은 메뉴예요.
